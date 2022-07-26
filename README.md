@@ -49,4 +49,8 @@ Run:
 ./create.sh stackname udagram-template.yml udagram-parameter.json
 ```
 
+## Screenshot of the web app
+![18  Screenshot of the Udagram Web app](https://user-images.githubusercontent.com/33078258/181128317-12d71d20-8521-4c89-afbd-b3e912d991dc.png)
+
+
 Thank you.
