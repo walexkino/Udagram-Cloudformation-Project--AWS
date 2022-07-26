@@ -1,7 +1,7 @@
 # Udagram-Cloudformation-Project-AWS
 
 This project is about deploying web servers for a high-availability web
-app in two Availability Zones using CloudFormation on AWS.
+app in **Two Availability Zones** using CloudFormation on AWS.
 
 ## Project Introduction
 
