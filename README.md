@@ -48,6 +48,12 @@ Run:
 ```sh
 ./create.sh stackname udagram-template.yml udagram-parameter.json
 ```
+## Web App Link
+
+Kindly note: should incase this link doesnt work in the future it simply means the stack as been removed or redeployed
+```sh
+http://udagr-webap-llubzl68o6q0-1917114204.us-east-1.elb.amazonaws.com/
+```
 
 ## Screenshot of the web app
 ![18  Screenshot of the Udagram Web app](https://user-images.githubusercontent.com/33078258/181128317-12d71d20-8521-4c89-afbd-b3e912d991dc.png)
